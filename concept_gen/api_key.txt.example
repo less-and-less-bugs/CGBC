@@ -1,0 +1,6 @@
+# Format: api_key on line 1, base_url on line 2 (optional)
+# Copy to api_key.txt and fill in your credentials
+# Lines starting with # are ignored
+
+your_api_key_here
+https://api.openai.com/v1

@@ -1,4 +1,4 @@
-This repository contains the implementation of our paper *Beyond Heuristic Prompting: A Concept-Guided Bayesian Framework for Zero-Shot Image Recognition*.
+This repository contains the implementation of our paper *Beyond Heuristic Prompting: A Concept-Guided Bayesian Framework for Zero-Shot Image Recognition*, accepted by CVPR 2026.
 
 The framework consists of three main steps: **Step 1: Environment & Data Setup**, **Step 2: Concept Generation**, and **Step 3: Concept-Guided Zero-Shot Inference**.
 
@@ -164,3 +164,4 @@ CUDA_VISIBLE_DEVICES=0 python zero_shot_hc_infer_nowanbd_batch_unique_diversity.
 ### Output
 
 Results are written to the path specified by `--result_path` (e.g., `results_report/results_concept.json`).
+
